@@ -1,0 +1,19 @@
+.goToYoutube {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   color: var(--mainColor);
+   width: 50px ;
+   height: 50px ;
+   background: white;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-size: 20px;
+   transition: 0.4s;
+   opacity:  0.5;
+   border-radius: 50% ;   }
+.goToYoutube:hover {
+   opacity: 1;   }
+
