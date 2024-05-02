@@ -1,9 +1,0 @@
-.hero {
-   background-image: url(../../images/banner-bg.jpg);
-   background-position: center;
-   background-size: cover;
-}
-.hero h1 {
-   font-size: 3rem;
-   letter-spacing: -1px;
-}
